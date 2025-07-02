@@ -49,7 +49,7 @@ public class Test {
 
         trainScheduleRepository.saveAll(List.of(sc1,sc2,sc3));
 
-        System.out.println("Data inserte in database successfully !! ");
+        System.out.println("Data inserted in database successfully !!  ");
 
     }
 
